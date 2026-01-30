@@ -4,9 +4,7 @@
 
 I am a Computer Science Engineering student at DSATM with a unique foundation in Mechanical Engineering. My goal is to bridge the gap between physical industrial systems and digital intelligence using Data Science and Machine Learning.
 
-* 🔭 I’m currently building **Industrial Predictive Maintenance Models**
 * 📊 I specialize in **Python, SQL, and Power BI**
-* 🏭 Ex-Apprentice at **Toyotetsu India** (Manufacturing Operations)
 * 🎓 Studying at **Dayananda Sagar Academy of Technology and Management**
 
 ---
@@ -20,20 +18,7 @@ I am a Computer Science Engineering student at DSATM with a unique foundation in
 | **Visualization** | Power BI, Tableau |
 | **Tools** | Git, GitHub, VS Code, Jupyter |
 
----
 
-### 🚀 Featured Projects
-
-#### 🔍 [South India Crime Pattern Analysis](https://github.com/Vaseemakram10/Your-Repo-Name-Here)
-* **Tools:** Power BI, Data Cleaning
-* **Overview:** Analyzed 14 years of IPC crime data across Karnataka, Tamil Nadu, Andhra Pradesh, and Kerala.
-* **Key Insight:** Identified a significant statistical anomaly in reported cases in Karnataka in 2013 and visualized district-level crime clusters.
-
-#### ⚙️ Industrial Predictive Maintenance (Work in Progress)
-* **Tools:** Python, Streamlit, Machine Learning (Random Forest)
-* **Overview:** A web application that predicts the Remaining Useful Life (RUL) of turbofan engines using sensor data (NASA Dataset), designed to reduce unplanned downtime in manufacturing.
-
----
 
 ### 📈 GitHub Stats
 
