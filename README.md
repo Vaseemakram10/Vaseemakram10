@@ -1,6 +1,6 @@
 # Hi there, I'm Vaseem Akram! 👋
 
-### 👨‍💻 Data Science Student | Mechanical Engineering Background
+### 👨‍💻 Data Science Student 
 
 I am a Computer Science Engineering student at DSATM with a unique foundation in Mechanical Engineering. My goal is to bridge the gap between physical industrial systems and digital intelligence using Data Science and Machine Learning.
 
@@ -18,11 +18,6 @@ I am a Computer Science Engineering student at DSATM with a unique foundation in
 | **Visualization** | Power BI, Tableau |
 | **Tools** | Git, GitHub, VS Code, Jupyter |
 
----
-
-### 📈 GitHub Stats
-
-![Vaseem's GitHub stats](https://github.com/Vaseemakram10)
 
 ---
 
