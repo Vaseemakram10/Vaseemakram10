@@ -14,7 +14,7 @@ Data Science and Machine Learning.
 
 | Domain | Skills |
 | :--- | :--- |
-| **Languages** | Python, SQL, Java |
+| **Languages** | Python, SQL,|
 | **Data Science** | Pandas, NumPy, Scikit-Learn, Matplotlib |
 | **Visualization** | Power BI, Tableau |
 | **Tools** | Git, GitHub, VS Code, Jupyter |
