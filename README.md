@@ -2,7 +2,8 @@
 
 ### 👨‍💻 Data Science Student 
 
-I am a Computer Science Engineering student at DSATM with a unique foundation in Mechanical Engineering. My goal is to bridge the gap between physical industrial systems and digital intelligence using Data Science and Machine Learning.
+I am a Computer Science Engineering in Data Science student at DSATM.
+Data Science and Machine Learning.
 
 * 📊 I specialize in **Python, SQL, and Power BI**
 * 🎓 Studying at **Dayananda Sagar Academy of Technology and Management**
