@@ -18,7 +18,7 @@ I am a Computer Science Engineering student at DSATM with a unique foundation in
 | **Visualization** | Power BI, Tableau |
 | **Tools** | Git, GitHub, VS Code, Jupyter |
 
-
+---
 
 ### 📈 GitHub Stats
 
