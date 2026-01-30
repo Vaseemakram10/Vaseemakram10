@@ -37,7 +37,7 @@ I am a Computer Science Engineering student at DSATM with a unique foundation in
 
 ### 📈 GitHub Stats
 
-![Vaseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaseemakram10&show_icons=true&theme=radical)
+![Vaseem's GitHub stats](https://github.com/Vaseemakram10)
 
 ---
 
