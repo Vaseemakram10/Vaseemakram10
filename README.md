@@ -3,7 +3,7 @@
 ### 👨‍💻 Data Science Student 
 
 I am a Computer Science Engineering(Data Science) student  at DSATM.
-Data Science and Machine Learning.
+
 
 * 📊 I specialize in **Python, SQL, and Power BI**
 * 🎓 Studying at **Dayananda Sagar Academy of Technology and Management**
