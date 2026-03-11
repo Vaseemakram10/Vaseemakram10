@@ -1,8 +1,8 @@
-# Hi there, I'm Vaseem Akram! 👋
+# Hi there, I'm Vaseem Akram! 
 
 ### 👨‍💻 Data Science Student 
 
-I am a Computer Science Engineering in Data Science student at DSATM.
+I am a Computer Science Engineering(Data Science) student  at DSATM.
 Data Science and Machine Learning.
 
 * 📊 I specialize in **Python, SQL, and Power BI**
