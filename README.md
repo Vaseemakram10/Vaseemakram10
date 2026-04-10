@@ -10,7 +10,7 @@ I am a Computer Science Engineering(Data Science) student  at DSATM.
 
 ---
 
-### 🛠️ Tech Stack
+
 
 | Domain | Skills |
 | :--- | :--- |
